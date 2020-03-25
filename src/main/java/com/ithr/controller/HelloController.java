@@ -13,7 +13,7 @@ public class HelloController {
 
     @RequestMapping("info")
     public  String info(){
-        return "hello git01";
+        return "hello git01 开发re";
 
     }
     //开发提交
